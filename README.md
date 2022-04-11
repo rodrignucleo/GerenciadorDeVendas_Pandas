@@ -5,8 +5,8 @@
  
 <div>
   <b> Foi utilizado: </b>
-  - Google Collab para a plataforma;
-  - Biblioteca PANDAS em Python;
+  - Google Collab para a plataforma; <br>
+  - Biblioteca PANDAS em Python; <br>
   - Excel para criação da tabela com valores ficticios.
   
 
