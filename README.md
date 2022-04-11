@@ -4,7 +4,7 @@
   Ele manda o total separado para cada filial e após isso manda o total de todas para o gestor final.
  
 <div>
-  Foi utilizado:
+  <b> Foi utilizado: </b>
   - Google Collab para a plataforma;
   - Biblioteca PANDAS em Python;
   - Excel para criação da tabela com valores ficticios.
